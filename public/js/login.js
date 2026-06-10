@@ -1,4 +1,3 @@
-
 const formulario = document.getElementById('formLogin')
 
 const mensagem = document.getElementById('mensagem')
